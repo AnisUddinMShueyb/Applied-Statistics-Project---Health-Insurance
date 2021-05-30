@@ -33,4 +33,4 @@ Post-Mortem:
 
 Future improvements:
 
-    Pair plot analysis: Inferences from Pair plot analysis are missing. e.g. - There's an interesting pattern between 'age' and 'charges. Could be because for the same ailment,       older people are charged more than the younger ones - The only obvious correlation of 'charges' is with 'smoker' - Looks like smokers claimed more money than non-smokers.
+  Pair plot analysis: Inferences from Pair plot analysis are missing. e.g. - There's an interesting pattern between 'age' and 'charges. Could be because for the same ailment,     older people are charged more than the younger ones - The only obvious correlation of 'charges' is with 'smoker' - Looks like smokers claimed more money than non-smokers.
