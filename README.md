@@ -23,8 +23,9 @@ Statistical Analysis used:
   Checking statistical significance between more than two independent groups : one-way ANOVA. 
   Test for proportions based on normal (Z) test.
   
-Post-Mortem
+Post-Mortem:
   EDA work is thorough with supporting inferences.  
   Providing observations by using Visual plots is attempted along with concluding results using Statistical hypothesis testing techniques. 
-  Future improvements:
+
+Future improvements:
     Pair plot analysis: Inferences from Pair plot analysis are missing. e.g. - There's an interesting pattern between 'age' and 'charges. Could be because for the same ailment,       older people are charged more than the younger ones - The only obvious correlation of 'charges' is with 'smoker' - Looks like smokers claimed more money than non-smokers.
